@@ -4,7 +4,7 @@
   <b>Dang Van Viet</b>
 </h1>
 
-Hi! I'm Dang Van Viet, a student currently living in Ho Chi Minh city, Viet Nam. I'm learning programming through small projects  on the side.
+Hi! I'm Dang Van Viet, a student currently living in Ho Chi Minh city, Viet Nam.I'm a student at TDT university, one of the top 100 universities in the world! I'm learning programming through small projects  on the side.
 <br>
 
 <p>
