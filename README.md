@@ -1,4 +1,5 @@
 ## Hi there, I'm Việt👋
+<p> Currently Im a Backend Developer working in Ho Chi Minh City</p>
 <div> <a href="https://github.com/vietha37" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/dv_vit_61022" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
