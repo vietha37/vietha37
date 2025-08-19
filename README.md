@@ -43,4 +43,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vietha37&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietha37&theme=2077" height="180em" />
 </div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vietha37&theme=react-dark"/>
