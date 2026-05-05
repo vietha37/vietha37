@@ -1,0 +1,1618 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="753" height="159" viewBox="0 0 753 159">
+<rect width="100%" height="100%" fill="#0d1117" rx="8"/>
+<style>
+@keyframes w0 {
+  0% { fill: #ffdd00; }
+  5% { fill: #51dd3f; }
+  10% { fill: #10d077; }
+  15% { fill: #00bdba; }
+  20% { fill: #00aeed; }
+  25% { fill: #00aaff; }
+  30% { fill: #00aeed; }
+  35% { fill: #00bdba; }
+  40% { fill: #10d077; }
+  45% { fill: #51dd3f; }
+  50% { fill: #fedd00; }
+  55% { fill: #ffad00; }
+  60% { fill: #ff7600; }
+  65% { fill: #ff571d; }
+  70% { fill: #ff483a; }
+  75% { fill: #ff4444; }
+  80% { fill: #ff483a; }
+  85% { fill: #ff571d; }
+  90% { fill: #ff7600; }
+  95% { fill: #ffad00; }
+  100% { fill: #ffdc00; }
+}
+@keyframes w1 {
+  0% { fill: #ffb400; }
+  5% { fill: #e8dd08; }
+  10% { fill: #40dc47; }
+  15% { fill: #06cd81; }
+  20% { fill: #00b7ce; }
+  25% { fill: #03a6ff; }
+  30% { fill: #0f9aff; }
+  35% { fill: #07a2ff; }
+  40% { fill: #00b3dd; }
+  45% { fill: #00c990; }
+  50% { fill: #32d855; }
+  55% { fill: #c0dd16; }
+  60% { fill: #ffbe00; }
+  65% { fill: #ff8b00; }
+  70% { fill: #ff6109; }
+  75% { fill: #ff5128; }
+  80% { fill: #ff4b34; }
+  85% { fill: #ff4f2c; }
+  90% { fill: #ff5d11; }
+  95% { fill: #ff7f00; }
+  100% { fill: #ffb400; }
+}
+@keyframes w2 {
+  0% { fill: #ff8900; }
+  5% { fill: #ffba00; }
+  10% { fill: #d2dd10; }
+  15% { fill: #38da4f; }
+  20% { fill: #00ca8c; }
+  25% { fill: #00b2e0; }
+  30% { fill: #0f9aff; }
+  35% { fill: #1e8bff; }
+  40% { fill: #1891ff; }
+  45% { fill: #00aafe; }
+  50% { fill: #00beb5; }
+  55% { fill: #1cd36b; }
+  60% { fill: #82dd2d; }
+  65% { fill: #ffcf00; }
+  70% { fill: #ffa100; }
+  75% { fill: #ff7000; }
+  80% { fill: #ff5a16; }
+  85% { fill: #ff5324; }
+  90% { fill: #ff561f; }
+  95% { fill: #ff6206; }
+  100% { fill: #ff8900; }
+}
+@keyframes w3 {
+  0% { fill: #ff6b00; }
+  5% { fill: #ff9300; }
+  10% { fill: #ffc100; }
+  15% { fill: #bcdd18; }
+  20% { fill: #2fd758; }
+  25% { fill: #00c69c; }
+  30% { fill: #00adf3; }
+  35% { fill: #1c8dff; }
+  40% { fill: #2d7cff; }
+  45% { fill: #2980ff; }
+  50% { fill: #1396ff; }
+  55% { fill: #00b4da; }
+  60% { fill: #06cd81; }
+  65% { fill: #43dc44; }
+  70% { fill: #f3dd04; }
+  75% { fill: #ffb300; }
+  80% { fill: #ff8400; }
+  85% { fill: #ff6403; }
+  90% { fill: #ff5b14; }
+  95% { fill: #ff5d11; }
+  100% { fill: #ff6b00; }
+}
+@keyframes w4 {
+  0% { fill: #ff6403; }
+  5% { fill: #ff7700; }
+  10% { fill: #ff9d00; }
+  15% { fill: #ffc700; }
+  20% { fill: #a5dd20; }
+  25% { fill: #27d560; }
+  30% { fill: #00c1ac; }
+  35% { fill: #03a6ff; }
+  40% { fill: #2881ff; }
+  45% { fill: #3b6eff; }
+  50% { fill: #3a6fff; }
+  55% { fill: #2683ff; }
+  60% { fill: #00aafe; }
+  65% { fill: #00c4a3; }
+  70% { fill: #2dd75a; }
+  75% { fill: #b4dd1a; }
+  80% { fill: #ffc300; }
+  85% { fill: #ff9900; }
+  90% { fill: #ff7400; }
+  95% { fill: #ff6304; }
+  100% { fill: #ff6403; }
+}
+@keyframes w5 {
+  0% { fill: #ff7200; }
+  5% { fill: #ff7000; }
+  10% { fill: #ff8300; }
+  15% { fill: #ffa700; }
+  20% { fill: #ffce00; }
+  25% { fill: #8fdd28; }
+  30% { fill: #1fd368; }
+  35% { fill: #00bdbb; }
+  40% { fill: #0e9bff; }
+  45% { fill: #3475ff; }
+  50% { fill: #4963ff; }
+  55% { fill: #4b62ff; }
+  60% { fill: #3871ff; }
+  65% { fill: #1495ff; }
+  70% { fill: #00b9c9; }
+  75% { fill: #16d171; }
+  80% { fill: #76dd31; }
+  85% { fill: #ffd400; }
+  90% { fill: #ffac00; }
+  95% { fill: #ff8700; }
+  100% { fill: #ff7200; }
+}
+@keyframes w6 {
+  0% { fill: #ff9a00; }
+  5% { fill: #ff8300; }
+  10% { fill: #ff7f00; }
+  15% { fill: #ff8f00; }
+  20% { fill: #ffb000; }
+  25% { fill: #ffd500; }
+  30% { fill: #78dd30; }
+  35% { fill: #17d170; }
+  40% { fill: #00b8cb; }
+  45% { fill: #1891ff; }
+  50% { fill: #4069ff; }
+  55% { fill: #575cff; }
+  60% { fill: #5b5aff; }
+  65% { fill: #4b62ff; }
+  70% { fill: #2881ff; }
+  75% { fill: #00aeef; }
+  80% { fill: #00cc87; }
+  85% { fill: #3fdb48; }
+  90% { fill: #e2dd0a; }
+  95% { fill: #ffbc00; }
+  100% { fill: #ff9a00; }
+}
+@keyframes w7 {
+  0% { fill: #ffcc00; }
+  5% { fill: #ffac00; }
+  10% { fill: #ff9400; }
+  15% { fill: #ff8e00; }
+  20% { fill: #ff9c00; }
+  25% { fill: #ffb700; }
+  30% { fill: #ffdb00; }
+  35% { fill: #61dd39; }
+  40% { fill: #0fcf78; }
+  45% { fill: #00b4da; }
+  50% { fill: #2188ff; }
+  55% { fill: #4c61ff; }
+  60% { fill: #6555ff; }
+  65% { fill: #6b52ff; }
+  70% { fill: #5d59ff; }
+  75% { fill: #3c6dff; }
+  80% { fill: #0d9cff; }
+  85% { fill: #00c0af; }
+  90% { fill: #29d65e; }
+  95% { fill: #a5dd20; }
+  100% { fill: #ffcc00; }
+}
+@keyframes w8 {
+  0% { fill: #68dd36; }
+  5% { fill: #ffdc00; }
+  10% { fill: #ffbb00; }
+  15% { fill: #ffa500; }
+  20% { fill: #ff9d00; }
+  25% { fill: #ffa800; }
+  30% { fill: #ffc000; }
+  35% { fill: #e9dd07; }
+  40% { fill: #4add41; }
+  45% { fill: #07cd80; }
+  50% { fill: #00b0e9; }
+  55% { fill: #2b7eff; }
+  60% { fill: #575cff; }
+  65% { fill: #724eff; }
+  70% { fill: #7b4aff; }
+  75% { fill: #6f50ff; }
+  80% { fill: #505fff; }
+  85% { fill: #2287ff; }
+  90% { fill: #00b5d6; }
+  95% { fill: #12d075; }
+  100% { fill: #68dd36; }
+}
+@keyframes w9 {
+  0% { fill: #00c98f; }
+  5% { fill: #3ada4d; }
+  10% { fill: #c7dd14; }
+  15% { fill: #ffc900; }
+  20% { fill: #ffb300; }
+  25% { fill: #ffab00; }
+  30% { fill: #ffb300; }
+  35% { fill: #ffc800; }
+  40% { fill: #cfdd11; }
+  45% { fill: #3edb49; }
+  50% { fill: #00cb89; }
+  55% { fill: #00acf7; }
+  60% { fill: #3574ff; }
+  65% { fill: #6256ff; }
+  70% { fill: #8047ff; }
+  75% { fill: #8a44ff; }
+  80% { fill: #8147ff; }
+  85% { fill: #6455ff; }
+  90% { fill: #3772ff; }
+  95% { fill: #00aafd; }
+  100% { fill: #00c98f; }
+}
+@keyframes w10 {
+  0% { fill: #1594ff; }
+  5% { fill: #00beb7; }
+  10% { fill: #24d563; }
+  15% { fill: #8cdd29; }
+  20% { fill: #ffd800; }
+  25% { fill: #ffc100; }
+  30% { fill: #ffb700; }
+  35% { fill: #ffbd00; }
+  40% { fill: #ffd000; }
+  45% { fill: #b5dd1a; }
+  50% { fill: #35d952; }
+  55% { fill: #00c797; }
+  60% { fill: #04a5ff; }
+  65% { fill: #3e6bff; }
+  70% { fill: #6d51ff; }
+  75% { fill: #8c44ff; }
+  80% { fill: #9944ff; }
+  85% { fill: #9244ff; }
+  90% { fill: #784bff; }
+  95% { fill: #4d61ff; }
+  100% { fill: #1594ff; }
+}
+@keyframes w11 {
+  0% { fill: #6256ff; }
+  5% { fill: #2b7eff; }
+  10% { fill: #00b3de; }
+  15% { fill: #0dcf7a; }
+  20% { fill: #51dd3f; }
+  25% { fill: #d7dd0e; }
+  30% { fill: #ffce00; }
+  35% { fill: #ffc300; }
+  40% { fill: #ffc700; }
+  45% { fill: #ffd900; }
+  50% { fill: #9add24; }
+  55% { fill: #2dd75a; }
+  60% { fill: #00c3a5; }
+  65% { fill: #0c9dff; }
+  70% { fill: #4764ff; }
+  75% { fill: #784bff; }
+  80% { fill: #9944ff; }
+  85% { fill: #a844ff; }
+  90% { fill: #a344ff; }
+  95% { fill: #8b44ff; }
+  100% { fill: #6256ff; }
+}
+@keyframes w12 {
+  0% { fill: #9e44ff; }
+  5% { fill: #764cff; }
+  10% { fill: #4168ff; }
+  15% { fill: #04a5ff; }
+  20% { fill: #00c797; }
+  25% { fill: #33d854; }
+  30% { fill: #9fdd22; }
+  35% { fill: #ffdc00; }
+  40% { fill: #ffcf00; }
+  45% { fill: #ffd100; }
+  50% { fill: #ebdd06; }
+  55% { fill: #7edd2e; }
+  60% { fill: #24d563; }
+  65% { fill: #00bfb4; }
+  70% { fill: #1495ff; }
+  75% { fill: #505fff; }
+  80% { fill: #8246ff; }
+  85% { fill: #a644ff; }
+  90% { fill: #b744ff; }
+  95% { fill: #b444ff; }
+  100% { fill: #9e44ff; }
+}
+@keyframes w13 {
+  0% { fill: #c544ff; }
+  5% { fill: #b144ff; }
+  10% { fill: #8b44ff; }
+  15% { fill: #575cff; }
+  20% { fill: #1a8fff; }
+  25% { fill: #00bcbe; }
+  30% { fill: #1dd36a; }
+  35% { fill: #67dd37; }
+  40% { fill: #cddd11; }
+  45% { fill: #ffdb00; }
+  50% { fill: #ffdc00; }
+  55% { fill: #cbdd12; }
+  60% { fill: #63dd38; }
+  65% { fill: #1bd26c; }
+  70% { fill: #00bbc2; }
+  75% { fill: #1d8cff; }
+  80% { fill: #595bff; }
+  85% { fill: #8d44ff; }
+  90% { fill: #b244ff; }
+  95% { fill: #c544ff; }
+  100% { fill: #c544ff; }
+}
+@keyframes w14 {
+  0% { fill: #d144f9; }
+  5% { fill: #d344f7; }
+  10% { fill: #c444ff; }
+  15% { fill: #a044ff; }
+  20% { fill: #6d51ff; }
+  25% { fill: #3178ff; }
+  30% { fill: #00b1e6; }
+  35% { fill: #07cd80; }
+  40% { fill: #3cdb4b; }
+  45% { fill: #9add24; }
+  50% { fill: #d5dd0f; }
+  55% { fill: #dadd0d; }
+  60% { fill: #a9dd1f; }
+  65% { fill: #46dd42; }
+  70% { fill: #12d075; }
+  75% { fill: #00b7d0; }
+  80% { fill: #2584ff; }
+  85% { fill: #6256ff; }
+  90% { fill: #9744ff; }
+  95% { fill: #be44ff; }
+  100% { fill: #d144f9; }
+}
+@keyframes w15 {
+  0% { fill: #ca44ff; }
+  5% { fill: #dc44ee; }
+  10% { fill: #df44eb; }
+  15% { fill: #d344f7; }
+  20% { fill: #b444ff; }
+  25% { fill: #8346ff; }
+  30% { fill: #4863ff; }
+  35% { fill: #08a1ff; }
+  40% { fill: #00c4a1; }
+  45% { fill: #27d560; }
+  50% { fill: #65dd37; }
+  55% { fill: #a6dd20; }
+  60% { fill: #b2dd1b; }
+  65% { fill: #87dd2b; }
+  70% { fill: #3ada4d; }
+  75% { fill: #09ce7e; }
+  80% { fill: #00b3df; }
+  85% { fill: #2d7cff; }
+  90% { fill: #6b52ff; }
+  95% { fill: #a144ff; }
+  100% { fill: #ca44ff; }
+}
+@keyframes w16 {
+  0% { fill: #ab44ff; }
+  5% { fill: #d344f7; }
+  10% { fill: #e644e4; }
+  15% { fill: #eb44df; }
+  20% { fill: #e144e9; }
+  25% { fill: #c844ff; }
+  30% { fill: #9944ff; }
+  35% { fill: #5e58ff; }
+  40% { fill: #1f8aff; }
+  45% { fill: #00b9c8; }
+  50% { fill: #12d075; }
+  55% { fill: #3ddb4a; }
+  60% { fill: #77dd31; }
+  65% { fill: #89dd2a; }
+  70% { fill: #64dd38; }
+  75% { fill: #2fd758; }
+  80% { fill: #00cc87; }
+  85% { fill: #00aeed; }
+  90% { fill: #3574ff; }
+  95% { fill: #734eff; }
+  100% { fill: #ab44ff; }
+}
+@keyframes w17 {
+  0% { fill: #7c49ff; }
+  5% { fill: #b444ff; }
+  10% { fill: #db44ef; }
+  15% { fill: #f044da; }
+  20% { fill: #f744d3; }
+  25% { fill: #ee44dc; }
+  30% { fill: #d844f2; }
+  35% { fill: #ae44ff; }
+  40% { fill: #754dff; }
+  45% { fill: #3574ff; }
+  50% { fill: #00aeef; }
+  55% { fill: #00ca8c; }
+  60% { fill: #29d65e; }
+  65% { fill: #47dd42; }
+  70% { fill: #60dd39; }
+  75% { fill: #43dc44; }
+  80% { fill: #24d563; }
+  85% { fill: #00c797; }
+  90% { fill: #00aafc; }
+  95% { fill: #3d6cff; }
+  100% { fill: #7c49ff; }
+}
+@keyframes w18 {
+  0% { fill: #4565ff; }
+  5% { fill: #8445ff; }
+  10% { fill: #be44ff; }
+  15% { fill: #e444e6; }
+  20% { fill: #fa44d0; }
+  25% { fill: #ff44c6; }
+  30% { fill: #fc44ce; }
+  35% { fill: #e744e3; }
+  40% { fill: #c344ff; }
+  45% { fill: #8b44ff; }
+  50% { fill: #4c61ff; }
+  55% { fill: #0d9cff; }
+  60% { fill: #00bfb2; }
+  65% { fill: #15d172; }
+  70% { fill: #33d854; }
+  75% { fill: #3edb49; }
+  80% { fill: #35d952; }
+  85% { fill: #19d26e; }
+  90% { fill: #00c2a8; }
+  95% { fill: #06a3ff; }
+  100% { fill: #4565ff; }
+}
+@keyframes w19 {
+  0% { fill: #0f9aff; }
+  5% { fill: #4d61ff; }
+  10% { fill: #8d44ff; }
+  15% { fill: #c744ff; }
+  20% { fill: #ec44de; }
+  25% { fill: #ff44c5; }
+  30% { fill: #ff44b7; }
+  35% { fill: #ff44be; }
+  40% { fill: #f544d5; }
+  45% { fill: #d544f5; }
+  50% { fill: #a144ff; }
+  55% { fill: #6356ff; }
+  60% { fill: #2386ff; }
+  65% { fill: #00b5d7; }
+  70% { fill: #01cc86; }
+  75% { fill: #21d466; }
+  80% { fill: #2fd758; }
+  85% { fill: #28d65f; }
+  90% { fill: #0ecf79; }
+  95% { fill: #00bdb9; }
+  100% { fill: #0f9aff; }
+}
+@keyframes w20 {
+  0% { fill: #00b9ca; }
+  5% { fill: #1792ff; }
+  10% { fill: #555dff; }
+  15% { fill: #9544ff; }
+  20% { fill: #cf44fb; }
+  25% { fill: #f444d6; }
+  30% { fill: #ff44b8; }
+  35% { fill: #ff44a8; }
+  40% { fill: #ff44ad; }
+  45% { fill: #ff44c5; }
+  50% { fill: #e544e5; }
+  55% { fill: #b744ff; }
+  60% { fill: #794bff; }
+  65% { fill: #3a6fff; }
+  70% { fill: #00aafd; }
+  75% { fill: #00c2a7; }
+  80% { fill: #0fcf78; }
+  85% { fill: #1fd368; }
+  90% { fill: #1ad26d; }
+  95% { fill: #03cc84; }
+  100% { fill: #00b9ca; }
+}
+@keyframes w21 {
+  0% { fill: #00c797; }
+  5% { fill: #00b4db; }
+  10% { fill: #2089ff; }
+  15% { fill: #5e58ff; }
+  20% { fill: #9d44ff; }
+  25% { fill: #d644f4; }
+  30% { fill: #fc44ce; }
+  35% { fill: #ff44ab; }
+  40% { fill: #ff449a; }
+  45% { fill: #ff449c; }
+  50% { fill: #ff44b2; }
+  55% { fill: #f544d5; }
+  60% { fill: #cd44fd; }
+  65% { fill: #9044ff; }
+  70% { fill: #505fff; }
+  75% { fill: #1495ff; }
+  80% { fill: #00b8cb; }
+  85% { fill: #00ca8c; }
+  90% { fill: #0fcf78; }
+  95% { fill: #0dcf7a; }
+  100% { fill: #00c797; }
+}
+@keyframes w22 {
+  0% { fill: #00cb89; }
+  5% { fill: #00c1ac; }
+  10% { fill: #00aeed; }
+  15% { fill: #2980ff; }
+  20% { fill: #6654ff; }
+  25% { fill: #a644ff; }
+  30% { fill: #dd44ed; }
+  35% { fill: #ff44c5; }
+  40% { fill: #ff449f; }
+  45% { fill: #ff448b; }
+  50% { fill: #ff448b; }
+  55% { fill: #ff449f; }
+  60% { fill: #ff44c4; }
+  65% { fill: #dd44ed; }
+  70% { fill: #a744ff; }
+  75% { fill: #6754ff; }
+  80% { fill: #2a7fff; }
+  85% { fill: #00aeef; }
+  90% { fill: #00c1ad; }
+  95% { fill: #00cb8a; }
+  100% { fill: #00cb89; }
+}
+@keyframes w23 {
+  0% { fill: #00c2a7; }
+  5% { fill: #00c4a3; }
+  10% { fill: #00bbc1; }
+  15% { fill: #00a9ff; }
+  20% { fill: #3277ff; }
+  25% { fill: #6e50ff; }
+  30% { fill: #ae44ff; }
+  35% { fill: #e344e7; }
+  40% { fill: #ff44bb; }
+  45% { fill: #ff4493; }
+  50% { fill: #ff447d; }
+  55% { fill: #ff447b; }
+  60% { fill: #ff448c; }
+  65% { fill: #ff44b0; }
+  70% { fill: #ee44dc; }
+  75% { fill: #bd44ff; }
+  80% { fill: #7e48ff; }
+  85% { fill: #4069ff; }
+  90% { fill: #0b9eff; }
+  95% { fill: #00b7ce; }
+  100% { fill: #00c2a7; }
+}
+@keyframes w24 {
+  0% { fill: #00aeef; }
+  5% { fill: #00bac5; }
+  10% { fill: #00bcbc; }
+  15% { fill: #00b5d7; }
+  20% { fill: #0a9fff; }
+  25% { fill: #3b6eff; }
+  30% { fill: #764cff; }
+  35% { fill: #b644ff; }
+  40% { fill: #ea44e0; }
+  45% { fill: #ff44b1; }
+  50% { fill: #ff4488; }
+  55% { fill: #ff446f; }
+  60% { fill: #ff446b; }
+  65% { fill: #ff447a; }
+  70% { fill: #ff449b; }
+  75% { fill: #fe44cc; }
+  80% { fill: #d244f8; }
+  85% { fill: #9444ff; }
+  90% { fill: #565cff; }
+  95% { fill: #2089ff; }
+  100% { fill: #00aeef; }
+}
+@keyframes w25 {
+  0% { fill: #3574ff; }
+  5% { fill: #0a9fff; }
+  10% { fill: #00b1e3; }
+  15% { fill: #00b5d6; }
+  20% { fill: #00aeed; }
+  25% { fill: #1594ff; }
+  30% { fill: #4465ff; }
+  35% { fill: #7e48ff; }
+  40% { fill: #be44ff; }
+  45% { fill: #f044da; }
+  50% { fill: #ff44a7; }
+  55% { fill: #ff447c; }
+  60% { fill: #ff4462; }
+  65% { fill: #ff445b; }
+  70% { fill: #ff4468; }
+  75% { fill: #ff4487; }
+  80% { fill: #ff44b6; }
+  85% { fill: #e344e7; }
+  90% { fill: #ab44ff; }
+  95% { fill: #6c51ff; }
+  100% { fill: #3574ff; }
+}
+@keyframes w26 {
+  0% { fill: #8346ff; }
+  5% { fill: #4a62ff; }
+  10% { fill: #1d8cff; }
+  15% { fill: #01a8ff; }
+  20% { fill: #00adf1; }
+  25% { fill: #02a7ff; }
+  30% { fill: #2089ff; }
+  35% { fill: #4e60ff; }
+  40% { fill: #8744ff; }
+  45% { fill: #c644ff; }
+  50% { fill: #f744d3; }
+  55% { fill: #ff449e; }
+  60% { fill: #ff4471; }
+  65% { fill: #ff4455; }
+  70% { fill: #ff444b; }
+  75% { fill: #ff4456; }
+  80% { fill: #ff4473; }
+  85% { fill: #ff44a1; }
+  90% { fill: #f344d7; }
+  95% { fill: #c244ff; }
+  100% { fill: #8346ff; }
+}
+@keyframes w27 {
+  0% { fill: #d544f5; }
+  5% { fill: #9944ff; }
+  10% { fill: #5f58ff; }
+  15% { fill: #3178ff; }
+  20% { fill: #1396ff; }
+  25% { fill: #07a2ff; }
+  30% { fill: #1099ff; }
+  35% { fill: #2b7eff; }
+  40% { fill: #575cff; }
+  45% { fill: #8f44ff; }
+  50% { fill: #cd44fd; }
+  55% { fill: #fd44cd; }
+  60% { fill: #ff4494; }
+  65% { fill: #ff4466; }
+  70% { fill: #ff4447; }
+  75% { fill: #ff473c; }
+  80% { fill: #ff4444; }
+  85% { fill: #ff4460; }
+  90% { fill: #ff448c; }
+  95% { fill: #ff44c4; }
+  100% { fill: #d544f5; }
+}
+@keyframes w28 {
+  0% { fill: #ff44ae; }
+  5% { fill: #e644e4; }
+  10% { fill: #b044ff; }
+  15% { fill: #754dff; }
+  20% { fill: #4565ff; }
+  25% { fill: #2584ff; }
+  30% { fill: #1792ff; }
+  35% { fill: #1d8cff; }
+  40% { fill: #3772ff; }
+  45% { fill: #6157ff; }
+  50% { fill: #9844ff; }
+  55% { fill: #d344f7; }
+  60% { fill: #ff44c5; }
+  65% { fill: #ff448b; }
+  70% { fill: #ff445b; }
+  75% { fill: #ff483b; }
+  80% { fill: #ff4f2d; }
+  85% { fill: #ff4c33; }
+  90% { fill: #ff444c; }
+  95% { fill: #ff4477; }
+  100% { fill: #ff44ae; }
+}
+@keyframes w29 {
+  0% { fill: #ff4462; }
+  5% { fill: #ff4497; }
+  10% { fill: #f744d3; }
+  15% { fill: #c644ff; }
+  20% { fill: #8b44ff; }
+  25% { fill: #595bff; }
+  30% { fill: #3772ff; }
+  35% { fill: #2782ff; }
+  40% { fill: #2b7eff; }
+  45% { fill: #4267ff; }
+  50% { fill: #6b52ff; }
+  55% { fill: #a044ff; }
+  60% { fill: #da44f0; }
+  65% { fill: #ff44bd; }
+  70% { fill: #ff4482; }
+  75% { fill: #ff4450; }
+  80% { fill: #ff4e2e; }
+  85% { fill: #ff561e; }
+  90% { fill: #ff5422; }
+  95% { fill: #ff4939; }
+  100% { fill: #ff4462; }
+}
+@keyframes w30 {
+  0% { fill: #ff5226; }
+  5% { fill: #ff444d; }
+  10% { fill: #ff4481; }
+  15% { fill: #ff44bf; }
+  20% { fill: #d844f2; }
+  25% { fill: #a044ff; }
+  30% { fill: #6e50ff; }
+  35% { fill: #4963ff; }
+  40% { fill: #3772ff; }
+  45% { fill: #3970ff; }
+  50% { fill: #4e60ff; }
+  55% { fill: #754dff; }
+  60% { fill: #a944ff; }
+  65% { fill: #e044ea; }
+  70% { fill: #ff44b5; }
+  75% { fill: #ff4479; }
+  80% { fill: #ff4446; }
+  85% { fill: #ff5422; }
+  90% { fill: #ff5e0f; }
+  95% { fill: #ff5d11; }
+  100% { fill: #ff5226; }
+}
+@keyframes w31 {
+  0% { fill: #ff6500; }
+  5% { fill: #ff5c13; }
+  10% { fill: #ff4938; }
+  15% { fill: #ff446c; }
+  20% { fill: #ff44a8; }
+  25% { fill: #e944e1; }
+  30% { fill: #b644ff; }
+  35% { fill: #8246ff; }
+  40% { fill: #5c59ff; }
+  45% { fill: #4863ff; }
+  50% { fill: #4764ff; }
+  55% { fill: #5a5aff; }
+  60% { fill: #7f48ff; }
+  65% { fill: #b244ff; }
+  70% { fill: #e644e4; }
+  75% { fill: #ff44ad; }
+  80% { fill: #ff4470; }
+  85% { fill: #ff473c; }
+  90% { fill: #ff5a16; }
+  95% { fill: #ff6501; }
+  100% { fill: #ff6500; }
+}
+@keyframes w32 {
+  0% { fill: #ff7200; }
+  5% { fill: #ff7500; }
+  10% { fill: #ff6501; }
+  15% { fill: #ff5324; }
+  20% { fill: #ff4456; }
+  25% { fill: #ff4491; }
+  30% { fill: #fa44d0; }
+  35% { fill: #cc44fe; }
+  40% { fill: #9744ff; }
+  45% { fill: #6f50ff; }
+  50% { fill: #585bff; }
+  55% { fill: #555dff; }
+  60% { fill: #6654ff; }
+  65% { fill: #8944ff; }
+  70% { fill: #bb44ff; }
+  75% { fill: #ec44de; }
+  80% { fill: #ff44a4; }
+  85% { fill: #ff4467; }
+  90% { fill: #ff4c32; }
+  95% { fill: #ff600a; }
+  100% { fill: #ff7200; }
+}
+@keyframes w33 {
+  0% { fill: #ff6700; }
+  5% { fill: #ff8000; }
+  10% { fill: #ff8500; }
+  15% { fill: #ff7600; }
+  20% { fill: #ff5d10; }
+  25% { fill: #ff4540; }
+  30% { fill: #ff447b; }
+  35% { fill: #ff44ba; }
+  40% { fill: #dd44ed; }
+  45% { fill: #ac44ff; }
+  50% { fill: #8246ff; }
+  55% { fill: #6953ff; }
+  60% { fill: #6455ff; }
+  65% { fill: #734eff; }
+  70% { fill: #9444ff; }
+  75% { fill: #c444ff; }
+  80% { fill: #f244d8; }
+  85% { fill: #ff449c; }
+  90% { fill: #ff445e; }
+  95% { fill: #ff5128; }
+  100% { fill: #ff6700; }
+}
+@keyframes w34 {
+  0% { fill: #ff561e; }
+  5% { fill: #ff7200; }
+  10% { fill: #ff8d00; }
+  15% { fill: #ff9500; }
+  20% { fill: #ff8800; }
+  25% { fill: #ff6900; }
+  30% { fill: #ff502a; }
+  35% { fill: #ff4464; }
+  40% { fill: #ff44a4; }
+  45% { fill: #ed44dd; }
+  50% { fill: #c144ff; }
+  55% { fill: #9544ff; }
+  60% { fill: #7b4aff; }
+  65% { fill: #734eff; }
+  70% { fill: #7f48ff; }
+  75% { fill: #9f44ff; }
+  80% { fill: #cd44fd; }
+  85% { fill: #f844d2; }
+  90% { fill: #ff4494; }
+  95% { fill: #ff4456; }
+  100% { fill: #ff561e; }
+}
+@keyframes w35 {
+  0% { fill: #ff444d; }
+  5% { fill: #ff5b14; }
+  10% { fill: #ff7e00; }
+  15% { fill: #ff9b00; }
+  20% { fill: #ffa400; }
+  25% { fill: #ff9a00; }
+  30% { fill: #ff7d00; }
+  35% { fill: #ff5b15; }
+  40% { fill: #ff444e; }
+  45% { fill: #ff448d; }
+  50% { fill: #fe44cc; }
+  55% { fill: #d344f7; }
+  60% { fill: #a944ff; }
+  65% { fill: #8c44ff; }
+  70% { fill: #8246ff; }
+  75% { fill: #8c44ff; }
+  80% { fill: #aa44ff; }
+  85% { fill: #d444f6; }
+  90% { fill: #ff44cb; }
+  95% { fill: #ff448c; }
+  100% { fill: #ff444d; }
+}
+@keyframes w36 {
+  0% { fill: #ff4484; }
+  5% { fill: #ff4445; }
+  10% { fill: #ff600b; }
+  15% { fill: #ff8900; }
+  20% { fill: #ffa800; }
+  25% { fill: #ffb100; }
+  30% { fill: #ffab00; }
+  35% { fill: #ff9100; }
+  40% { fill: #ff6500; }
+  45% { fill: #ff4938; }
+  50% { fill: #ff4476; }
+  55% { fill: #ff44b6; }
+  60% { fill: #e344e7; }
+  65% { fill: #bd44ff; }
+  70% { fill: #9e44ff; }
+  75% { fill: #9244ff; }
+  80% { fill: #9a44ff; }
+  85% { fill: #b544ff; }
+  90% { fill: #db44ef; }
+  95% { fill: #ff44c3; }
+  100% { fill: #ff4484; }
+}
+@keyframes w37 {
+  0% { fill: #ff44ba; }
+  5% { fill: #ff447c; }
+  10% { fill: #ff473c; }
+  15% { fill: #ff6402; }
+  20% { fill: #ff9300; }
+  25% { fill: #ffb200; }
+  30% { fill: #ffbc00; }
+  35% { fill: #ffb800; }
+  40% { fill: #ffa400; }
+  45% { fill: #ff7a00; }
+  50% { fill: #ff5521; }
+  55% { fill: #ff4460; }
+  60% { fill: #ff449f; }
+  65% { fill: #f444d6; }
+  70% { fill: #d044fa; }
+  75% { fill: #b044ff; }
+  80% { fill: #a244ff; }
+  85% { fill: #a744ff; }
+  90% { fill: #c044ff; }
+  95% { fill: #e244e8; }
+  100% { fill: #ff44ba; }
+}
+@keyframes w38 {
+  0% { fill: #ea44e0; }
+  5% { fill: #ff44b2; }
+  10% { fill: #ff4474; }
+  15% { fill: #ff4b34; }
+  20% { fill: #ff6c00; }
+  25% { fill: #ff9e00; }
+  30% { fill: #ffbb00; }
+  35% { fill: #ffc700; }
+  40% { fill: #ffc500; }
+  45% { fill: #ffb400; }
+  50% { fill: #ff8f00; }
+  55% { fill: #ff600b; }
+  60% { fill: #ff4449; }
+  65% { fill: #ff4489; }
+  70% { fill: #ff44c4; }
+  75% { fill: #df44eb; }
+  80% { fill: #c244ff; }
+  85% { fill: #b244ff; }
+  90% { fill: #b544ff; }
+  95% { fill: #cc44fe; }
+  100% { fill: #ea44e0; }
+}
+@keyframes w39 {
+  0% { fill: #d544f5; }
+  5% { fill: #f144d9; }
+  10% { fill: #ff44a9; }
+  15% { fill: #ff446c; }
+  20% { fill: #ff4f2c; }
+  25% { fill: #ff7500; }
+  30% { fill: #ffa800; }
+  35% { fill: #ffc400; }
+  40% { fill: #ffd200; }
+  45% { fill: #ffd200; }
+  50% { fill: #ffc200; }
+  55% { fill: #ffa400; }
+  60% { fill: #ff7000; }
+  65% { fill: #ff4c32; }
+  70% { fill: #ff4472; }
+  75% { fill: #ff44af; }
+  80% { fill: #ee44dc; }
+  85% { fill: #d244f8; }
+  90% { fill: #c244ff; }
+  95% { fill: #c344ff; }
+  100% { fill: #d544f5; }
+}
+@keyframes w40 {
+  0% { fill: #d044fa; }
+  5% { fill: #de44ec; }
+  10% { fill: #f944d1; }
+  15% { fill: #ff44a0; }
+  20% { fill: #ff4464; }
+  25% { fill: #ff5324; }
+  30% { fill: #ff7e00; }
+  35% { fill: #ffb000; }
+  40% { fill: #ffcd00; }
+  45% { fill: #fddd00; }
+  50% { fill: #f9dd01; }
+  55% { fill: #ffd000; }
+  60% { fill: #ffb500; }
+  65% { fill: #ff8600; }
+  70% { fill: #ff571c; }
+  75% { fill: #ff445c; }
+  80% { fill: #ff4499; }
+  85% { fill: #fd44cd; }
+  90% { fill: #e044ea; }
+  95% { fill: #d144f9; }
+  100% { fill: #d044fa; }
+}
+@keyframes w41 {
+  0% { fill: #dd44ed; }
+  5% { fill: #db44ef; }
+  10% { fill: #e744e3; }
+  15% { fill: #ff44c8; }
+  20% { fill: #ff4497; }
+  25% { fill: #ff445b; }
+  30% { fill: #ff571c; }
+  35% { fill: #ff8700; }
+  40% { fill: #ffb800; }
+  45% { fill: #ffd600; }
+  50% { fill: #d6dd0e; }
+  55% { fill: #ccdd12; }
+  60% { fill: #f9dd01; }
+  65% { fill: #ffc400; }
+  70% { fill: #ff9b00; }
+  75% { fill: #ff6305; }
+  80% { fill: #ff4445; }
+  85% { fill: #ff4483; }
+  90% { fill: #ff44b8; }
+  95% { fill: #ef44db; }
+  100% { fill: #dd44ed; }
+}
+@keyframes w42 {
+  0% { fill: #fd44cd; }
+  5% { fill: #ea44e0; }
+  10% { fill: #e644e4; }
+  15% { fill: #f044da; }
+  20% { fill: #ff44be; }
+  25% { fill: #ff448e; }
+  30% { fill: #ff4453; }
+  35% { fill: #ff5b14; }
+  40% { fill: #ff9000; }
+  45% { fill: #ffbf00; }
+  50% { fill: #f6dd03; }
+  55% { fill: #b0dd1c; }
+  60% { fill: #a0dd22; }
+  65% { fill: #c7dd14; }
+  70% { fill: #ffd300; }
+  75% { fill: #ffaf00; }
+  80% { fill: #ff7600; }
+  85% { fill: #ff4e2e; }
+  90% { fill: #ff446c; }
+  95% { fill: #ff44a3; }
+  100% { fill: #fd44cd; }
+}
+@keyframes w43 {
+  0% { fill: #ff448e; }
+  5% { fill: #ff44ba; }
+  10% { fill: #f744d3; }
+  15% { fill: #f144d9; }
+  20% { fill: #fa44d0; }
+  25% { fill: #ff44b3; }
+  30% { fill: #ff4484; }
+  35% { fill: #ff444b; }
+  40% { fill: #ff600b; }
+  45% { fill: #ff9800; }
+  50% { fill: #ffc700; }
+  55% { fill: #d6dd0e; }
+  60% { fill: #8bdd29; }
+  65% { fill: #75dd31; }
+  70% { fill: #96dd26; }
+  75% { fill: #eadd07; }
+  80% { fill: #ffbf00; }
+  85% { fill: #ff8d00; }
+  90% { fill: #ff5918; }
+  95% { fill: #ff4456; }
+  100% { fill: #ff448e; }
+}
+@keyframes w44 {
+  0% { fill: #ff4540; }
+  5% { fill: #ff4479; }
+  10% { fill: #ff44a6; }
+  15% { fill: #ff44c4; }
+  20% { fill: #fd44cd; }
+  25% { fill: #ff44c4; }
+  30% { fill: #ff44a8; }
+  35% { fill: #ff447b; }
+  40% { fill: #ff4442; }
+  45% { fill: #ff6403; }
+  50% { fill: #ffa100; }
+  55% { fill: #ffce00; }
+  60% { fill: #b8dd19; }
+  65% { fill: #67dd37; }
+  70% { fill: #4bdd41; }
+  75% { fill: #65dd37; }
+  80% { fill: #b4dd1b; }
+  85% { fill: #ffcf00; }
+  90% { fill: #ffa300; }
+  95% { fill: #ff6501; }
+  100% { fill: #ff4540; }
+}
+@keyframes w45 {
+  0% { fill: #ff7b00; }
+  5% { fill: #ff502a; }
+  10% { fill: #ff4464; }
+  15% { fill: #ff4493; }
+  20% { fill: #ff44b2; }
+  25% { fill: #ff44be; }
+  30% { fill: #ff44b7; }
+  35% { fill: #ff449d; }
+  40% { fill: #ff4471; }
+  45% { fill: #ff483a; }
+  50% { fill: #ff6a00; }
+  55% { fill: #ffa900; }
+  60% { fill: #ffd500; }
+  65% { fill: #9add24; }
+  70% { fill: #43dc44; }
+  75% { fill: #37d950; }
+  80% { fill: #3edb49; }
+  85% { fill: #7edd2e; }
+  90% { fill: #f5dd03; }
+  95% { fill: #ffb500; }
+  100% { fill: #ff7b00; }
+}
+@keyframes w46 {
+  0% { fill: #ffc600; }
+  5% { fill: #ff9200; }
+  10% { fill: #ff5c13; }
+  15% { fill: #ff444e; }
+  20% { fill: #ff447e; }
+  25% { fill: #ff44a0; }
+  30% { fill: #ff44af; }
+  35% { fill: #ff44aa; }
+  40% { fill: #ff4491; }
+  45% { fill: #ff4468; }
+  50% { fill: #ff4d31; }
+  55% { fill: #ff7200; }
+  60% { fill: #ffaf00; }
+  65% { fill: #ffdc00; }
+  70% { fill: #7cdd2f; }
+  75% { fill: #37d950; }
+  80% { fill: #28d65f; }
+  85% { fill: #2dd75a; }
+  90% { fill: #49dd42; }
+  95% { fill: #bbdd18; }
+  100% { fill: #ffc600; }
+}
+@keyframes w47 {
+  0% { fill: #81dd2d; }
+  5% { fill: #ffd700; }
+  10% { fill: #ffa800; }
+  15% { fill: #ff6900; }
+  20% { fill: #ff4938; }
+  25% { fill: #ff446a; }
+  30% { fill: #ff448d; }
+  35% { fill: #ff449f; }
+  40% { fill: #ff449c; }
+  45% { fill: #ff4485; }
+  50% { fill: #ff445e; }
+  55% { fill: #ff5129; }
+  60% { fill: #ff7a00; }
+  65% { fill: #ffb600; }
+  70% { fill: #e8dd08; }
+  75% { fill: #5fdd39; }
+  80% { fill: #2ad65d; }
+  85% { fill: #19d26e; }
+  90% { fill: #1cd36b; }
+  95% { fill: #32d855; }
+  100% { fill: #81dd2d; }
+}
+@keyframes w48 {
+  0% { fill: #1fd368; }
+  5% { fill: #49dd42; }
+  10% { fill: #d7dd0e; }
+  15% { fill: #ffba00; }
+  20% { fill: #ff7f00; }
+  25% { fill: #ff5422; }
+  30% { fill: #ff4456; }
+  35% { fill: #ff447b; }
+  40% { fill: #ff448e; }
+  45% { fill: #ff448e; }
+  50% { fill: #ff447a; }
+  55% { fill: #ff4454; }
+  60% { fill: #ff5520; }
+  65% { fill: #ff8200; }
+  70% { fill: #ffbc00; }
+  75% { fill: #d0dd10; }
+  80% { fill: #43dc44; }
+  85% { fill: #1ed369; }
+  90% { fill: #0bce7c; }
+  95% { fill: #0bce7c; }
+  100% { fill: #1fd368; }
+}
+@keyframes w49 {
+  0% { fill: #00c990; }
+  5% { fill: #0dcf7a; }
+  10% { fill: #31d856; }
+  15% { fill: #9bdd24; }
+  20% { fill: #ffcb00; }
+  25% { fill: #ff9600; }
+  30% { fill: #ff5f0d; }
+  35% { fill: #ff4541; }
+  40% { fill: #ff4468; }
+  45% { fill: #ff447e; }
+  50% { fill: #ff447f; }
+  55% { fill: #ff446d; }
+  60% { fill: #ff4449; }
+  65% { fill: #ff5a17; }
+  70% { fill: #ff8a00; }
+  75% { fill: #ffc200; }
+  80% { fill: #b7dd19; }
+  85% { fill: #39da4e; }
+  90% { fill: #12d075; }
+  95% { fill: #00ca8d; }
+  100% { fill: #00c990; }
+}
+@keyframes w50 {
+  0% { fill: #00c3a5; }
+  5% { fill: #00c1ac; }
+  10% { fill: #00c990; }
+  15% { fill: #1cd36b; }
+  20% { fill: #5fdd39; }
+  25% { fill: #ffdb00; }
+  30% { fill: #ffac00; }
+  35% { fill: #ff6f00; }
+  40% { fill: #ff4f2c; }
+  45% { fill: #ff4455; }
+  50% { fill: #ff446d; }
+  55% { fill: #ff4471; }
+  60% { fill: #ff4461; }
+  65% { fill: #ff463f; }
+  70% { fill: #ff5e0e; }
+  75% { fill: #ff9300; }
+  80% { fill: #ffc800; }
+  85% { fill: #9fdd22; }
+  90% { fill: #2fd758; }
+  95% { fill: #06cd81; }
+  100% { fill: #00c3a5; }
+}
+@keyframes w51 {
+  0% { fill: #00c990; }
+  5% { fill: #00bcbd; }
+  10% { fill: #00b9c8; }
+  15% { fill: #00c0b0; }
+  20% { fill: #08ce7f; }
+  25% { fill: #38da4f; }
+  30% { fill: #c5dd15; }
+  35% { fill: #ffbd00; }
+  40% { fill: #ff8500; }
+  45% { fill: #ff5a17; }
+  50% { fill: #ff4442; }
+  55% { fill: #ff445c; }
+  60% { fill: #ff4462; }
+  65% { fill: #ff4454; }
+  70% { fill: #ff4b34; }
+  75% { fill: #ff6305; }
+  80% { fill: #ff9b00; }
+  85% { fill: #ffce00; }
+  90% { fill: #88dd2b; }
+  95% { fill: #25d562; }
+  100% { fill: #00c990; }
+}
+@keyframes w52 {
+  0% { fill: #1cd36b; }
+  5% { fill: #00c3a4; }
+  10% { fill: #00b6d4; }
+  15% { fill: #00b1e3; }
+  20% { fill: #00b7d0; }
+  25% { fill: #00c69b; }
+  30% { fill: #23d464; }
+  35% { fill: #87dd2b; }
+  40% { fill: #ffce00; }
+  45% { fill: #ff9b00; }
+  50% { fill: #ff6402; }
+  55% { fill: #ff4e2e; }
+  60% { fill: #ff444a; }
+  65% { fill: #ff4453; }
+  70% { fill: #ff4448; }
+  75% { fill: #ff5129; }
+  80% { fill: #ff6a00; }
+  85% { fill: #ffa300; }
+  90% { fill: #ffd400; }
+  95% { fill: #70dd33; }
+  100% { fill: #1cd36b; }
+}
+</style>
+
+<rect x="44" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w0 8.0s 0.00s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="44" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="44" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="44" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="44" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w0 8.0s 0.00s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="44" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w0 8.0s 0.00s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="44" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w0 8.0s 0.00s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="57" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="57" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="70" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w2 8.0s 7.11s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="70" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="70" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="70" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w2 8.0s 7.11s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="70" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w2 8.0s 7.11s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="70" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="70" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w2 8.0s 7.11s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="83" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w3 8.0s 6.66s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="83" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="83" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="83" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w3 8.0s 6.66s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="83" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="83" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="83" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="96" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w4 8.0s 6.22s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="96" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w4 8.0s 6.22s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="96" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w4 8.0s 6.22s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="96" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w4 8.0s 6.22s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="96" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="96" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w4 8.0s 6.22s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="96" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="109" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="109" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="109" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="109" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="109" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="109" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w5 8.0s 5.77s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="109" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="122" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w6 8.0s 5.33s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="135" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="135" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="135" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="135" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="135" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w7 8.0s 4.88s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="135" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w7 8.0s 4.88s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="135" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w7 8.0s 4.88s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="148" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="148" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w8 8.0s 4.43s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="148" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="148" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="148" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w8 8.0s 4.43s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="148" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w8 8.0s 4.43s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="148" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w8 8.0s 4.43s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="161" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w9 8.0s 3.99s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="161" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w9 8.0s 3.99s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="161" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w9 8.0s 3.99s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="161" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="161" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="161" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="161" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="174" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="174" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w10 8.0s 3.54s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="174" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w10 8.0s 3.54s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="174" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="174" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w10 8.0s 3.54s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="174" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="174" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w10 8.0s 3.54s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="187" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="187" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="187" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="187" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w11 8.0s 3.10s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="187" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="187" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w11 8.0s 3.10s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="187" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w11 8.0s 3.10s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="200" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="200" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="200" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w12 8.0s 2.65s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="200" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="200" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="200" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="200" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="213" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w13 8.0s 2.21s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="213" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w13 8.0s 2.21s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="213" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="213" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="213" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="213" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w13 8.0s 2.21s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="213" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="226" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w14 8.0s 1.76s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="226" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w14 8.0s 1.76s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="226" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="226" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w14 8.0s 1.76s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="226" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w14 8.0s 1.76s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="226" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="226" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="239" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w15 8.0s 1.32s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="239" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="239" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="239" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="239" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w15 8.0s 1.32s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="239" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w15 8.0s 1.32s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="239" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="252" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="252" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="252" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w16 8.0s 0.87s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="252" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w16 8.0s 0.87s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="252" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="252" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w16 8.0s 0.87s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="252" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w16 8.0s 0.87s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="265" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="265" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w17 8.0s 0.42s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="265" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="265" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w17 8.0s 0.42s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="265" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="265" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="265" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="278" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="278" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w18 8.0s 7.98s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="278" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w18 8.0s 7.98s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="278" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w18 8.0s 7.98s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="278" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="278" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="278" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w18 8.0s 7.98s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="291" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w19 8.0s 7.53s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="291" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="291" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="291" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="291" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w19 8.0s 7.53s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="291" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w19 8.0s 7.53s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="291" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w20 8.0s 7.09s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="304" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="304" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="317" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w21 8.0s 6.64s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="317" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="317" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="317" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w21 8.0s 6.64s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="317" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w21 8.0s 6.64s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="317" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="317" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w22 8.0s 6.20s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="330" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="330" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="343" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w23 8.0s 5.75s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="343" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="343" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w23 8.0s 5.75s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="343" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w23 8.0s 5.75s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="343" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="343" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="343" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w23 8.0s 5.75s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="356" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="356" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="356" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w24 8.0s 5.30s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="356" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w24 8.0s 5.30s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="356" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="356" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w24 8.0s 5.30s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="356" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w24 8.0s 5.30s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="369" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="369" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="369" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="369" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="369" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="369" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w25 8.0s 4.86s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="369" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w25 8.0s 4.86s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="382" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w26 8.0s 4.41s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="382" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="382" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="382" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="382" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w26 8.0s 4.41s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="382" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="382" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w27 8.0s 3.97s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="395" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="395" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w27 8.0s 3.97s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="408" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="408" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="408" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="408" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="408" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="408" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="408" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w28 8.0s 3.52s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="421" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="421" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w29 8.0s 3.08s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="434" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="434" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w30 8.0s 2.63s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="434" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="434" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="434" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w30 8.0s 2.63s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="434" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w30 8.0s 2.63s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="434" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w30 8.0s 2.63s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="447" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w31 8.0s 2.19s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="447" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="447" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="447" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w31 8.0s 2.19s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="447" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w31 8.0s 2.19s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="447" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="447" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w31 8.0s 2.19s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="460" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="460" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w32 8.0s 1.74s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="460" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="460" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w32 8.0s 1.74s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="460" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="460" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w32 8.0s 1.74s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="460" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="473" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="473" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w33 8.0s 1.29s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="473" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w33 8.0s 1.29s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="473" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="473" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="473" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w33 8.0s 1.29s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="473" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="486" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w34 8.0s 0.85s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="486" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w34 8.0s 0.85s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="486" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="486" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w34 8.0s 0.85s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="486" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="486" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w34 8.0s 0.85s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="486" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="499" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w35 8.0s 0.40s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="499" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="499" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="499" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w35 8.0s 0.40s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="499" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="499" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="499" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w35 8.0s 0.40s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="512" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="512" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="512" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w36 8.0s 7.96s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="512" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w36 8.0s 7.96s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="512" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="512" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="512" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="525" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w37 8.0s 7.51s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="525" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w37 8.0s 7.51s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="525" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w37 8.0s 7.51s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="525" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="525" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="525" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w37 8.0s 7.51s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="525" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w37 8.0s 7.51s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="538" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w38 8.0s 7.07s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="538" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w38 8.0s 7.07s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="538" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w38 8.0s 7.07s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="538" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="538" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w38 8.0s 7.07s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="538" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="538" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w38 8.0s 7.07s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="551" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w39 8.0s 6.62s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="551" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="551" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="551" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="551" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w39 8.0s 6.62s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="551" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="551" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w39 8.0s 6.62s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="564" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w40 8.0s 6.17s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="564" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="564" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w40 8.0s 6.17s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="564" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="564" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="564" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w40 8.0s 6.17s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="564" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w40 8.0s 6.17s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="577" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="577" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="577" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="577" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="577" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w41 8.0s 5.73s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="577" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w41 8.0s 5.73s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="577" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="590" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w42 8.0s 5.28s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="590" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w42 8.0s 5.28s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="590" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="590" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="590" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="590" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w42 8.0s 5.28s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="590" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w42 8.0s 5.28s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="603" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="603" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w43 8.0s 4.84s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="603" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w43 8.0s 4.84s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="603" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="603" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="603" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="603" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w43 8.0s 4.84s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="616" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w44 8.0s 4.39s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="616" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w44 8.0s 4.39s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="616" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w44 8.0s 4.39s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="616" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="616" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="616" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="616" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w44 8.0s 4.39s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="629" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w45 8.0s 3.95s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="629" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="629" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w45 8.0s 3.95s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="629" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="629" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w45 8.0s 3.95s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="629" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w45 8.0s 3.95s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="629" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w45 8.0s 3.95s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="642" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w46 8.0s 3.50s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="642" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w46 8.0s 3.50s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="642" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="642" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w46 8.0s 3.50s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="642" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="642" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w46 8.0s 3.50s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="642" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w46 8.0s 3.50s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="655" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w47 8.0s 3.06s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="655" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w47 8.0s 3.06s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="655" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="655" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w47 8.0s 3.06s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="655" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="655" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w47 8.0s 3.06s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="655" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w47 8.0s 3.06s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="668" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="668" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w48 8.0s 2.61s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="668" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="668" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="668" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w48 8.0s 2.61s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="668" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="668" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="681" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="681" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="681" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w49 8.0s 2.16s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="681" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w49 8.0s 2.16s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="681" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="681" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w49 8.0s 2.16s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="681" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="694" y="32" width="11" height="11" rx="2" fill="#39d353" style="animation: w50 8.0s 1.72s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="694" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="694" y="58" width="11" height="11" rx="2" fill="#39d353" style="animation: w50 8.0s 1.72s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="694" y="71" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="694" y="84" width="11" height="11" rx="2" fill="#39d353" style="animation: w50 8.0s 1.72s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="694" y="97" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="694" y="110" width="11" height="11" rx="2" fill="#39d353" style="animation: w50 8.0s 1.72s ease-in-out infinite; opacity: 1.00;"/>
+<rect x="707" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="707" y="45" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="707" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="707" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w51 8.0s 1.27s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="707" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="707" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w51 8.0s 1.27s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="707" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="720" y="32" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="720" y="45" width="11" height="11" rx="2" fill="#39d353" style="animation: w52 8.0s 0.83s ease-in-out infinite; opacity: 0.44;"/>
+<rect x="720" y="58" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="720" y="71" width="11" height="11" rx="2" fill="#39d353" style="animation: w52 8.0s 0.83s ease-in-out infinite; opacity: 0.62;"/>
+<rect x="720" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="720" y="97" width="11" height="11" rx="2" fill="#39d353" style="animation: w52 8.0s 0.83s ease-in-out infinite; opacity: 0.81;"/>
+<rect x="720" y="110" width="11" height="11" rx="2" fill="#161b22"/>
+<text x="44" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">May</text>
+<text x="96" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Jun</text>
+<text x="148" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Jul</text>
+<text x="213" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Aug</text>
+<text x="265" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Sep</text>
+<text x="330" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Oct</text>
+<text x="382" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Nov</text>
+<text x="434" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Dec</text>
+<text x="499" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Jan</text>
+<text x="551" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Feb</text>
+<text x="616" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Mar</text>
+<text x="668" y="24" font-size="10" fill="#8b949e" font-family="sans-serif">Apr</text>
+<text x="40" y="55" font-size="10" fill="#8b949e" font-family="sans-serif" text-anchor="end">Mon</text>
+<text x="40" y="81" font-size="10" fill="#8b949e" font-family="sans-serif" text-anchor="end">Wed</text>
+<text x="40" y="107" font-size="10" fill="#8b949e" font-family="sans-serif" text-anchor="end">Fri</text>
+<text x="44" y="146" font-size="10" fill="#8b949e" font-family="sans-serif">Less</text>
+<rect x="76" y="137" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="89" y="137" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect x="102" y="137" width="11" height="11" rx="2" fill="#006d32"/>
+<rect x="115" y="137" width="11" height="11" rx="2" fill="#26a641"/>
+<rect x="128" y="137" width="11" height="11" rx="2" fill="#39d353"/>
+<text x="145" y="146" font-size="10" fill="#8b949e" font-family="sans-serif">More</text>
+</svg>
