@@ -2,7 +2,6 @@
 ### Hi Im Viet as a Backend Developer · Ha Noi, Vietnam 🇻🇳
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vietdang06102002.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vietha37)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dv_vit_61022)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vietdang61022@gmail.com)
 
@@ -14,12 +13,10 @@
 
 ```yaml
 name: Dang Van Viet
-location: Mo Lao, Ha Dong, Ha Noi, Vietnam
 education: Bachelor of Computer Science — Ton Duc Thang University (2025)
 current_role: Backend Developer
 experience: 1+ year building RESTful APIs & scalable backend systems
-languages_spoken: [Vietnamese, English (Aptis ESOL B2)]
-certifications: [Aptis ESOL B2, Agile Development & Scrum Framework]
+languages_spoken: [Vietnamese, English
 interests: [Backend Architecture, API Design, Database Optimization, AI Training]
 ```
 
@@ -56,19 +53,6 @@ interests: [Backend Architecture, API Design, Database Optimization, AI Training
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Viet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietha37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vietha37&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 *"Clean code, clear thinking, scalable systems."*
 
