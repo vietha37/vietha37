@@ -57,61 +57,6 @@ interests: [Backend Architecture, API Design, Database Optimization, AI Training
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
----
-
-## 💼 Work Experience
-
-### 🏢 NP Technology · Ho Chi Minh City
-**Web Developer** | `June 2024 – May 2025`
-
-- Built a full-featured internal **Task Management API** to create, assign, and track employee tasks
-- Optimized SQL queries to improve overall system performance and response time
-- Developed and documented RESTful API endpoints using Swagger
-- **Stack:** .NET Core · ASP.NET Core · Entity Framework Core · LINQ · SQL Server
-
----
-
-### 🤖 Schola Company · Remote
-**AI Trainer** | `June 2025 – Present`
-
-- Paraphrased and refined Vietnamese user inputs to enhance language model output quality
-- Created high-quality training datasets for Vietnamese text generation tasks
-- Ensured grammatical accuracy and semantic completeness in AI-generated responses
-
----
-
-## 🚀 Featured Projects
-
-### 🎵 Music Streaming Platform
-> A web-based music streaming app for browsing songs by artist, album, and genre.
-
-- Designed and implemented all backend API endpoints
-- **Tech:** Node.js · MongoDB · JavaScript
-- 🔗 [View on GitHub](#)
-
----
-
-### 📚 Online Bookstore
-> Full-stack e-commerce platform with cart management, order placement, and secure authentication.
-
-- Designed system architecture and implemented the full backend layer
-- Integrated Spring Security for authentication & authorization
-- **Tech:** Java · Spring Boot · Spring Security · MySQL · ReactJS
-- 🔗 [View on GitHub](#)
-
----
-
-## 🧠 Core Knowledge
-
-| Area | Details |
-|---|---|
-| **Principles** | OOP · Design Patterns · RESTful API Design |
-| **Methodologies** | Agile · Scrum |
-| **Database** | Query Optimization · Schema Design · ORM |
-| **Security** | Spring Security · JWT Authentication |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
