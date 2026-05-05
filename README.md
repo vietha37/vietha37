@@ -58,8 +58,6 @@ interests: [Backend Architecture, API Design, Database Optimization, AI Training
 
 📍 Ha Noi, Vietnam · 📧 vietdang61022@gmail.com · 📞 (+84) 343 205 870
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vietha37/vietha37/main/wave.svg" alt="Rainbow Wave"/>
-</div>
+
 
 </div>
