@@ -1,5 +1,5 @@
 <div align="center">
-### Hi Im Viet as a Backend Developer · Ha Noi, Vietnam 🇻🇳
+Hi Im Viet as a Backend Developer · Ha Noi, Vietnam
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vietdang06102002.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dv_vit_61022)
@@ -57,5 +57,9 @@ interests: [Backend Architecture, API Design, Database Optimization, AI Training
 *"Clean code, clear thinking, scalable systems."*
 
 📍 Ha Noi, Vietnam · 📧 vietdang61022@gmail.com · 📞 (+84) 343 205 870
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vietha37/vietha37/main/wave.svg" alt="Rainbow Wave"/>
+</div>
 
 </div>
