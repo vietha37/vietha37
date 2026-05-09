@@ -1,5 +1,5 @@
 <div align="center">
-Hi Im Viet as a Backend Developer · Ha Noi, Vietnam
+<h1>Hi Im Viet as a Backend Developer.</h1>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vietdang06102002.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dv_vit_61022)
@@ -15,8 +15,7 @@ Hi Im Viet as a Backend Developer · Ha Noi, Vietnam
 name: Dang Van Viet
 education: Bachelor of Computer Science — Ton Duc Thang University (2025)
 current_role: Backend Developer
-experience: 1+ year building RESTful APIs & scalable backend systems
-languages_spoken: [Vietnamese, English
+languages_spoken: Vietnamese, English
 interests: [Backend Architecture, API Design, Database Optimization, AI Training]
 ```
 
