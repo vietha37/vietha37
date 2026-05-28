@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi Im Viet as a Full Stack Developer.</h1>
+<h1>Hello Im Viet, a Full - Stack Developer.</h1>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vietdang06102002.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dv_vit_61022)
